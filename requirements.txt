@@ -1,0 +1,12 @@
+kafka==1.3.5
+kafka-python==2.0.2
+pandas
+pyspark==3.4.3
+elasticsearch==8.14.0
+minio==7.2.7
+findspark==2.0.1
+python-dotenv
+
+
+pip install kafka-python-ng
+pip install kafka-python

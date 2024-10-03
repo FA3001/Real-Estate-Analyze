@@ -1,0 +1,23 @@
+.venv/
+data/
+/jdk-11.0.2
+/kafka_2.12-3.8.0
+/spark-3.4.3-bin-hadoop3
+.env
+jars/
+/logs
+*.log
+*.log
+.ipynb_checkpoints
+*en
+*config
+jupyterenv
+*/logs/
+/aws
+**/.DS_Store
+**/__pycache__/
+# Ignore the config directory
+config/
+
+# Ignore the kafka_topic_creation.log file
+kafka_topic_creation.log
